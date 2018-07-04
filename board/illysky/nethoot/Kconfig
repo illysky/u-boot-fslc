@@ -1,0 +1,12 @@
+if TARGET_ILLYSKY_NETHOOT
+
+config SYS_VENDOR
+	default "illysky"
+
+config SYS_BOARD
+	default "nethoot"
+
+config SYS_CONFIG_NAME
+	default "illysky_nethoot"
+
+endif

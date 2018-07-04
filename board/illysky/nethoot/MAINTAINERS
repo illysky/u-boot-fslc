@@ -1,0 +1,6 @@
+ILLYSKY NETHOOT BOARD
+M:	Dominic Moffat <breno.lima@nxp.com>
+S:	Maintained
+F:	board/illysky/nethoot/
+F:	include/configs/illysky_nethoot.h
+F:	configs/illysky_nethoot_defconfig
